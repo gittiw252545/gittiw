@@ -1,5 +1,2 @@
-print("hello univers")
-
-print("hello univers")
-print("hello univers")
-print("hello univers")print("hello univers")
+print("hello thailand")
+print("hello thailand")
